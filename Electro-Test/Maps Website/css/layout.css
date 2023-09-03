@@ -1,0 +1,52 @@
+.uk-card-login{
+    background-color: grey;
+    color: black;
+}
+
+.form-container form .error-msg{
+    margin: 10px 0;
+    display: block;
+    background-color: crimson;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.input-box{
+    background: #fff;
+    width: 95%;
+    max-width: 3000px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.input-box img{
+    width: 35px;
+    cursor: pointer;
+}
+
+.pwshowhide{
+    margin-left: 2%;
+    max-width: 4%;
+}
+
+body {
+    margin: 0;
+}
+
+#map {
+    height: 100vh;
+    width: 70vw;
+}
+
+.hi{
+    margin-right: 30px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
